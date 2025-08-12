@@ -1,0 +1,14 @@
+## 10 questões ... (10 grupos de 5 Alunos)
+- 1a O que é GC para você? (g1)
+- 1b Como você vê a GC na prática? (g2)
+- 1c E por que fazer GC? Quais o benefícios? (g3)
+- **2a Como fazer GC? Por onde começar? (g4)**
+  - Identificar os objetivos desta Gestão
+  - Mapear o conhecimento existente na organização, ou seja, descobrir onde está o conhecimento hoje em dia
+  - Partir de problemas e desafios atuais
+- 2b Quais os desafios para se implementar GC? (g5)
+- 2c Existem atalhos? (g6)
+- 2d O que tem funcionado ao longo do tempo? (g7)
+- 3 O que alguém deve saber sobre GC? (g8)
+- 4 Qual a relação de GC com RH? (g9)
+- 5 Qual o papel da GC nas organizações de hoje? (g10)
