@@ -44,3 +44,14 @@ Internalização (explícito -> tácito)
 - GC garante continuidade, memória organizacional 
 - Artefatos -> não perder conhecimento
 - SECI fecha ciclo entre turmas
+
+---
+
+- Felipe Freitas
+- Felipe Frison
+- Maria Eduarda Maia
+- Isabela Araujo
+- Paola Lopes
+- Isabela
+- Tiago
+- Maria
